@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@pact-foundation/pact-node": "10.17.1",
-    "@pact-foundation/pact": "9.17.2"
+    "@pact-foundation/pact": "10.0.0"
   },
   "devDependencies": {
     "browserify": "^13.1.1",
