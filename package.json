@@ -18,6 +18,8 @@
     "adm-zip": "0.4.7",
     "@apollo/server": "4.10.4",
     "@nestjs/apollo": "13.1.0",
+    "@pact-foundation/pact-node": "10.17.1"
+    "@pact-foundation/pact": "9.17.2"
     "body-parser": "1.9.0",
     "cfenv": "^1.0.4",
     "consolidate": "0.14.5",
